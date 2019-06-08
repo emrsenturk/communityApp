@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1079119648453",
+    "firebase_url": "https://communityapp-97c0d.firebaseio.com",
+    "project_id": "communityapp-97c0d",
+    "storage_bucket": "communityapp-97c0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079119648453:android:8e211773a1c6274a",
+        "android_client_info": {
+          "package_name": "com.example.sentrkk.communityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079119648453-krogs6h8r23p9kfil7svufvmbcnbggc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWeJ9JzKefpovn5IbW4yGlmMewYMry5Aw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
